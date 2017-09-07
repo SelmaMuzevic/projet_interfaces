@@ -1,0 +1,22 @@
+{
+    "name": "projet_interfaces",
+    "version": "1.0.0",
+    "description": "My first interface",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SelmaMuzevic/projet_interfaces.git"
+    },
+    "author": "selma",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SelmaMuzevic/projet_interfaces/issues"
+    },
+    "homepage": "https://github.com/SelmaMuzevic/projet_interfaces#readme",
+    "dependencies": {
+        "typescript": "^2.5.2"
+    }
+}
